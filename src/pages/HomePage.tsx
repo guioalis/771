@@ -12,7 +12,7 @@ export function HomePage() {
               Free Image to Prompt AI
             </h1>
             <p className="text-xl text-gray-600 mb-8 max-w-2xl mx-auto">
-              通过人工智能，轻松将图片转换为详细的提示词描述。快速、准确、免费。
+              通过我们的人工智能，轻松将你的文案生成英文的提示词并有着准确的机器视觉识别,快速、准确、免费。
             </p>
             <div className="flex gap-4 justify-center">
               <Link
